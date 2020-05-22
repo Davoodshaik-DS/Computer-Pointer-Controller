@@ -111,6 +111,9 @@ Code base is moduler with each module having seperate concerns:<br>
 - `mouse_controller.py`: Convenient class for controlling mouse pointer.
 - `main.py`: Script, which is the starting point for the app.
 - `download_models.sh`: Bash script to download all required models from model zoo automatically.
+
+## Pipeline:
+![ ](https://github.com/Davoodshaik-DS/Computer-Pointer-Controller/blob/master/bin/pipeline.png)
 ## Benchmarks
 Benchmark was done on CPU with inputs from `demo.mp4` file present in `media` directory. Following tables show the benchmark stats for models used in the app:<br>
 1. Face Detection Model<br>
